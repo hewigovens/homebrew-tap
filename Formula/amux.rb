@@ -1,5 +1,5 @@
 class Amux < Formula
-  desc "Agent multiplexer for piping LLM responses"
+  desc "Tiny CLI that keeps local AI/code agents organized inside tmux"
   homepage "https://github.com/hewigovens/amux"
   url "https://github.com/hewigovens/amux/archive/refs/tags/0.1.3.tar.gz"
   sha256 "f8881d8a5cd4cef104557b188aef1d29f1adc69dd48f390b1410bb98af9ec19c"

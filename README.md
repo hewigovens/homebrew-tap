@@ -6,7 +6,7 @@ Custom tap for personal macOS utilities.
 - `miso` – Method Input Switch Overlay.
 - `app-detective` – System analyzer utility.
 - `staged-launcher` – Stage Manager helper.
-- `amux` – Rust CLI for multiplexing local agents via tmux.
+- `amux` – Tiny CLI that keeps local AI/code agents organized inside tmux.
 
 ## Usage
 ```bash
