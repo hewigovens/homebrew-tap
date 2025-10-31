@@ -1,6 +1,6 @@
 # Homebrew Tap
 
-Custom tap for hewigovens macOS utilities.
+Custom tap for personal macOS utilities.
 
 ## Contents
 - `miso` – Method Input Switch Overlay.
