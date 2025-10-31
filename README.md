@@ -12,4 +12,5 @@ Custom tap for personal macOS utilities.
 ```bash
 brew tap hewigovens/homebrew-tap
 brew install --cask miso
+brew install hewigovens/tap/amux
 ```
