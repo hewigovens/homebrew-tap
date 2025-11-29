@@ -1,6 +1,6 @@
 cask "miso" do
-  version "1.0.1"
-  sha256 "ab2a1ea4934b18a37a6699f54ede7cf9f7adaf367b5faa649303f56ea2a6cdf8"
+  version "1.0.2"
+  sha256 "deaef208f4a958cad01cb5e1966dc2650000e3e604462d3068e238b5fd373164"
 
   url "https://github.com/hewigovens/Miso/releases/download/#{version}/Miso.zip"
   name "Miso"
