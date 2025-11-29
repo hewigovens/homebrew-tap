@@ -11,7 +11,7 @@ Custom tap for personal macOS utilities.
 ## Usage
 
 ```bash
-brew tap hewigovens/homebrew-tap
+brew tap hewigovens/tap
 brew install --cask miso
 ```
 
